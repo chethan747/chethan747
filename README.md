@@ -5,6 +5,8 @@
 ```python
 class Chethan:
     focus = "Applied AI/ML"
+    currently = ["AI/ML Full-Stack Engineer @ Meta (contract)",
+                 "Java Developer @ SoftTechersLLC"]
     building = "DocuMind"  # from-scratch RAG, in public
     tools = ["Python", "TF-IDF", "BM25", "SQLite"]
 ```
