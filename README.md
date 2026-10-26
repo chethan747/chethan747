@@ -22,6 +22,9 @@ Ask questions over your own documents, get answers with citations.
 - Storage: SQLite document store, ingestion pipeline with dedup by content hash, persistent versioned index with document metadata
 - Next: answer reranking, evaluation harness with hit-rate metrics, REST API + web UI, Docker/CI, v1.0
 
+**AI Banking System** ([repo](https://github.com/chethan747/ai-banking-system) · [live demo](https://chethan747.github.io/ai-banking-system/))
+Complete AI full-stack banking platform in pure Python — core banking, from-scratch fraud detection with a review queue, transparent credit scoring, spending insights, role-based management, KYC, loan approvals, hash-chained audit log and dashboards. 67 tests passing.
+
 **Neural net from scratch** ([daily-projects](https://github.com/chethan747/daily-projects))
 Pure-Python neural network, no ML frameworks — verified: XOR 4/4, blobs 99%.
 
@@ -34,6 +37,7 @@ Pure-Python neural network, no ML frameworks — verified: XOR 4/4, blobs 99%.
 | Project | What it is |
 |---|---|
 | [DocuMind](https://github.com/chethan747/documind) | From-scratch RAG engine — 🟢 Active, 21-day build, Oct–Nov 2026 |
+| [AI Banking System](https://github.com/chethan747/ai-banking-system) | Complete AI full-stack banking platform — 🟢 Live demo at [chethan747.github.io/ai-banking-system](https://chethan747.github.io/ai-banking-system/) |
 | [Daily Projects](https://github.com/chethan747/daily-projects) | Small Python, JavaScript, Java and web builds — 9 shipped |
 | [Portfolio Website](https://github.com/chethan747/portfolio-website) | Personal portfolio — 🟢 Live at [chethan747.github.io/portfolio-website](https://chethan747.github.io/portfolio-website/) |
 
